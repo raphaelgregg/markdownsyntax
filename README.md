@@ -1,8 +1,8 @@
 # HEADERS
 
-'# This is an <h1> tag' # Tamanho H1
-'## This is an <h2> tag' # Tamanho H2
-'###### This is an <h6> tag' # Tamanho H6
+# This is an <h1> tag Tamanho h1
+## This is an <h2> tag Tamanho h2
+###### This is an <h6> tag # Tamanho h6
   
 # LISTS
 
