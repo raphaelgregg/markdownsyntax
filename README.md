@@ -1,15 +1,23 @@
 # HEADERS
 
-# This is an <h1> tag Tamanho h1
-## This is an <h2> tag Tamanho h2
-###### This is an <h6> tag # Tamanho h6
+# This is an <h1> tag
+## This is an <h2> tag
+###### This is an <h6> tag 
   
 # LISTS
 
+Unordered
 * Item 1
 * Item 2
  * Item 2a
  * Item 2b
+ 
+Ordered
+1. Item 1
+2. Item 2
+3. Item 3
+ * Item 3a
+ * Item 3b
  
 # IMAGES
 
@@ -23,14 +31,6 @@ _This will also be italic_
 **This text will be bold**
 __This will also be bold__
 *You **can** combine them*
-
-# ORDERED
-
-1. Item 1
-2. Item 2
-3. Item 3
- * Item 3a
- * Item 3b
  
  # LINKS
  
